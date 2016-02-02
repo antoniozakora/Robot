@@ -1,1 +1,2 @@
-print ("Ja sam robot Tihomir.")
+fot i in range (10):
+    print ("Ja sam robot Tihomir.")
